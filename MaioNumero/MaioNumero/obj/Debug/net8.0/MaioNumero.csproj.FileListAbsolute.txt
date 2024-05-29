@@ -1,0 +1,14 @@
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\bin\Debug\net8.0\MaioNumero.exe
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\bin\Debug\net8.0\MaioNumero.deps.json
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\bin\Debug\net8.0\MaioNumero.runtimeconfig.json
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\bin\Debug\net8.0\MaioNumero.dll
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\bin\Debug\net8.0\MaioNumero.pdb
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\obj\Debug\net8.0\MaioNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\obj\Debug\net8.0\MaioNumero.AssemblyInfoInputs.cache
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\obj\Debug\net8.0\MaioNumero.AssemblyInfo.cs
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\obj\Debug\net8.0\MaioNumero.csproj.CoreCompileInputs.cache
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\obj\Debug\net8.0\MaioNumero.dll
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\obj\Debug\net8.0\refint\MaioNumero.dll
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\obj\Debug\net8.0\MaioNumero.pdb
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\obj\Debug\net8.0\MaioNumero.genruntimeconfig.cache
+C:\Users\ryanm\source\repos\MaioNumero\MaioNumero\obj\Debug\net8.0\ref\MaioNumero.dll
